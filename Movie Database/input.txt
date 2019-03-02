@@ -1,0 +1,25 @@
+The Notebook,2004,USA,7.9,YES,The Notebook,Nicholas Sparks,1996
+Inception,2010,USA/UK,8.8,NO
+Forrest Gump,1994,USA,8.8,YES,Forrest Gump,Winston Groom,1986
+Seven,1995,USA,8.6,NO
+P.S. I Love You,2007,USA,7.1,YES,P.S. I Love You,Cecelia Ahern,2004
+Saving Private Ryan,1998,USA,8.6,NO
+Fight Club,1999,USA/Germany,8.8,YES,Fight Club,Chuck Palahniuk,1996
+The Usual Suspects,1995,USA/Germany,8.6,NO
+The Host,2013,USA/Switzerland,5.9,YES,The Host,Stephenie Meyer,2008
+Spirited Away,2001,Japan,8.6,NO
+Before I go to sleep,2014,UK/USA/France,6.3,YES,Before I go to sleep,S.J. Watson,2011
+The Shawshank Redemption,1994,USA,9.3,YES,Different Seasons,Stephen King,1982
+The Godfather,1972,USA,9.2,NO
+Pride & Prejudice,2005,France/UK/USA,7.8,YES,Pride & Prejudice,Jane Austen,1813
+The Dark Knight,2008,USA/UK,9.0,NO
+One Flew Over The Cuckoo’s Nest,1975,USA,8.7,YES,One Flew Over The Cuckoo’s Nest,Ken Kesey,1972
+12 Angry Men,1957,USA,8.9,NO
+It is a wonderful Life,1946,USA,8.6,YES,The Greatest Gift,Philip Van Doren Stern,1939
+Interstellar,2014,USA/UK/Canada,8.6,NO
+The Green Mile,1999,USA,8.5,YES,The Green Mile,Stephen King,1996
+Babam ve oglum,2005,Turkey,8.6,NO
+3 Idiots,2009,India,8.4,YES,Five Point Someone,Chetan Bhagat,2004
+Life is Beautiful,1997,Italy,8.6,NO
+The Grand Budapest Hotel,2014,USA/Germany,8.1,NO
+A Beautiful Mind,2001,USA,8.2,YES,A Beautiful Mind,Sylvia Nasar,1998
